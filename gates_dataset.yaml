@@ -1,0 +1,10 @@
+# Apunta a la carpeta nueva que acabamos de crear
+path: /home/humubuntu/gates_images/Dataset_Final_Colores
+
+# Rutas relativas dentro de esa carpeta
+train: images/train
+val: images/val
+
+# Configuración de las 3 clases de colores
+nc: 3
+names: ['Red_gates', 'Green_gates', 'Blue_gates']

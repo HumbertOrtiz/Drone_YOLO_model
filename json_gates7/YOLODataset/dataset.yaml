@@ -1,0 +1,7 @@
+path: /home/humubuntu/Documents/json_gates7/YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: Red_gates
